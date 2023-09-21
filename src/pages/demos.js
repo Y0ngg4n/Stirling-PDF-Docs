@@ -15,11 +15,11 @@ export default function Donate() {
 
         <h1>Demos will go here eventually</h1>
 		
-		 <p>
+		 <h2>
           Stirling-PDF
                </p><br/>
 		<a href="https://pdf-online.tools/">https://pdf-online.tools/</a>
-		 <p>
+		 <h2>
           Stirling-PDF Lite
                 
 		 </p>
