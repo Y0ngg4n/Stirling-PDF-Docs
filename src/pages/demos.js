@@ -17,7 +17,7 @@ export default function Donate() {
 		
 		 <p>
           Stirling-PDF
-               </p><br>
+               </p><br/>
 		<a href="https://pdf-online.tools/">https://pdf-online.tools/</a>
 		 <p>
           Stirling-PDF Lite
